@@ -11,7 +11,7 @@
   <artifactId>qmakebuilder</artifactId>
   <name>Hudson QMake plugin</name>
   <packaging>hpi</packaging>
-  <version>0.2</version>
+  <version>0.3</version>
   <url>http://wiki.hudson-ci.org/display/HUDSON/qmakebuilder+Plugin</url>
 
     <repositories>

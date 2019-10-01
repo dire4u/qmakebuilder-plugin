@@ -3,6 +3,10 @@
   <f:entry title="Qmake project file" field="projectFile">
     	<f:textbox />
   </f:entry>
+  
+  <f:entry title="Build dir" field="buildDir">
+    	<f:textbox  />
+  </f:entry>
     
   <f:entry title="Extra arguments to qmake (optional)" field="extraArguments">
     	<f:textbox  />
